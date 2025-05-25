@@ -1,6 +1,6 @@
 # Pete Metzinger
 ## Student at The University of Alabama
-## Double Major in Computer Science and Mathematics with Applied Math Conccentration and Minor in Statistics
+### Double Major in Computer Science and Mathematics with Applied Math Conccentration and Minor in Statistics
 Independent App Developer
 <!--
 **pete-metzinger/pete-metzinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
